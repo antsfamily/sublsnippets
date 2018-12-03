@@ -1,0 +1,16 @@
+<snippet>
+	<description>inline math in RestructuredText</description>
+	<content><![CDATA[
+.. image:: ${1:image path}
+   :height: ${2:image height}100px
+   :width: ${3:image width}200 px
+   :scale: ${4:image scale}50 %
+   :alt: ${5:some text}
+   :align: ${6:left right center}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>..image</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>text.rst</scope> -->
+</snippet>

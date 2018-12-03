@@ -1,0 +1,19 @@
+<snippet>
+	<description>inline math in RestructuredText</description>
+	<content><![CDATA[
+.. figure:: ${1:figure path}
+   :height: ${2:figure height}100px
+   :width: ${3:figure width}200 px
+   :scale: ${4:figure scale}50 %
+   :alt: ${5:some text}
+   :align: ${6:left right center}
+
+   ${7:This is the caption of the figure (a simple paragraph).}
+
+   ${8:The legend consists of all elements after the caption.}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>..figure</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>text.rst</scope> -->
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+	<description>inline math in RestructuredText</description>
+	<content><![CDATA[
+.. ${1:hint}:: 
+	${1:hint text}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>..</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>text.rst</scope> -->
+</snippet>

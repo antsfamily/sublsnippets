@@ -1,0 +1,10 @@
+<snippet>
+	<description>inline markup in RestructuredText</description>
+	<content><![CDATA[
+ :${1:ref}:`${2:label}` 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>:</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>text.RestructuredText</scope> -->
+</snippet>
