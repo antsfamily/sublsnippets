@@ -1,7 +1,7 @@
 <snippet>
 	<description>inline markup in RestructuredText</description>
 	<content><![CDATA[
- :${1:ref}:`${2:label}` 
+:${1:ref}:`${2:label}` 
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>:</tabTrigger>
