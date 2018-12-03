@@ -19,5 +19,6 @@ snippets for sublime plugins.
 - ``..figure+Tab`` --> ``.. figure:: ``
 - ``..image+Tab`` --> ``.. image:: ``
 
-
+a demo for reStructuredText Snippets:
+![demo for reStructuredText Snippets](./docs/figs/demo_reStructuredTextSnippets.gif)
 
