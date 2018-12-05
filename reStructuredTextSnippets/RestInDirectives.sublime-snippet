@@ -2,7 +2,7 @@
 	<description>inline math in RestructuredText</description>
 	<content><![CDATA[
 .. ${1:hint}:: 
-	${1:hint text}
+	${2:hint text}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>..</tabTrigger>
