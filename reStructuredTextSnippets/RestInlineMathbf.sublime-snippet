@@ -1,7 +1,7 @@
 <snippet>
 	<description>inline math in RestructuredText</description>
 	<content><![CDATA[
-:math:`{\mathbf ${1:x}}` 
+{\mathbf ${1:x}}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>mbf</tabTrigger>
