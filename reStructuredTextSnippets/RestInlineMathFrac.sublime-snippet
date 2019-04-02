@@ -1,10 +1,10 @@
 <snippet>
-	<description>inline mathbb in RestructuredText</description>
+	<description>inline frac in RestructuredText</description>
 	<content><![CDATA[
-{\mathbb ${1:x}}
+\frac{${1: fenzi}}{${2: fenmu}}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>mbb</tabTrigger>
+	<tabTrigger>mf</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>text.rst</scope> -->
 </snippet>

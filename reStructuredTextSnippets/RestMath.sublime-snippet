@@ -1,5 +1,5 @@
 <snippet>
-	<description>inline math in RestructuredText</description>
+	<description>display math in RestructuredText</description>
 	<content><![CDATA[
 .. math:: 
 	${1:\alpha}

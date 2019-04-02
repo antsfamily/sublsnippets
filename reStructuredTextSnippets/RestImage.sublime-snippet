@@ -1,5 +1,5 @@
 <snippet>
-	<description>inline math in RestructuredText</description>
+	<description>image in RestructuredText</description>
 	<content><![CDATA[
 .. image:: ${1:image path}
    :height: ${2:image height}100px

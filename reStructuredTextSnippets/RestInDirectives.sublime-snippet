@@ -1,5 +1,5 @@
 <snippet>
-	<description>inline math in RestructuredText</description>
+	<description>directive in RestructuredText</description>
 	<content><![CDATA[
 .. ${1:hint}:: 
 	${1:hint text}
