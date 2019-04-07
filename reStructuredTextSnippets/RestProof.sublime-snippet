@@ -1,12 +1,15 @@
 <snippet>
-	<description>display math in RestructuredText</description>
+	<description>Proof in RestructuredText</description>
 	<content><![CDATA[
-.. math::
-	${1:\alpha}
-   :label: equ-${2:labelname}
+.. _${1:prooflabel}:
+
+.. proof:proof:: ${2:Proof Name}
+
+   ${3:Content}
+
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>..math</tabTrigger>
+	<tabTrigger>..ppro</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>text.rst</scope> -->
 </snippet>
